@@ -1,0 +1,12 @@
+# Ignore SSH keys
+*.pub
+fullstackkey
+
+# Ignore node_modules
+node_modules/
+
+# Ignore other unwanted files/folders
+.env
+.vscode/
+.idea/
+*.log
